@@ -37,7 +37,7 @@ Here are some of the exciting projects I've worked on:
 - **Impact:** Enhanced performance and streamlined operations for over 500+ clients.
 - **Store Links:** [App Store](#) | [Google Play](#)
 
-### 2. **[Enso](https://enso.marcoller.eu/)**
+### 2. **[Enso](https://ensosplit.com/)**
 - **Description:** Enso is an application to control expenses among your friends in a simple way.
 - **Features:** It incorporates the possibility of storing in the cloud (Google Drive API implementation), share with friends and manage in different ways all expenses recorded in the application.
 - **Live Demo:** [Visit Here](https://ensosplit.com/)
