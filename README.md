@@ -38,9 +38,9 @@ Here are some of the exciting projects I've worked on:
 - **Store Links:** [App Store](#) | [Google Play](#)
 
 ### 2. **[Enso](https://enso.marcoller.eu/)**
-- **Description:** Enso is an open source application to control expenses among your friends in a simple way.
+- **Description:** Enso is an application to control expenses among your friends in a simple way.
 - **Features:** It incorporates the possibility of storing in the cloud (Google Drive API implementation), share with friends and manage in different ways all expenses recorded in the application.
-- **Live Demo:** [Visit Here]([#](https://enso.marcoller.eu/))
+- **Live Demo:** [Visit Here](https://ensosplit.com/)
 
 ---
 
